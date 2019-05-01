@@ -5,7 +5,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import lombok.*;
 
-//change to mybranch 5/1/2019
+//change to mybranch 5/1/2019...
 
 @NoArgsConstructor
 //@RequiredArgsConstructor
