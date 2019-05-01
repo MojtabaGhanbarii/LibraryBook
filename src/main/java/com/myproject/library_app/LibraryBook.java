@@ -4,6 +4,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import lombok.*;
+//
 @NoArgsConstructor
 //@RequiredArgsConstructor
 @Entity // This tells Hibernate to make a table out of this class
